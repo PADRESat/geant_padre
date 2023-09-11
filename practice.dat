@@ -1,0 +1,9 @@
+#                  GENERAL DETAILS
+#
+#
+#              |                             INITIAL VALUES                              |
+#              |-------------------------------------------------------------------------|
+#              |    KE   |        POSITION (mm)          |    UNIT DIRECTION VECTOR      |                ENERGY (keV) DEPOSITED IN DETECTORS
+#              |---------|-------------------------------|-------------------------------|-------------------------------------------------------------------
+#    Event     |  (keV) |   Pos_x    Pos_y    Pos_z    |    Dir_x     Dir_y     Dir_z | Det 001   Det 002   Det 003   Det 004   Det 005   Det 006   Det 007   Det 008     Total
+#
